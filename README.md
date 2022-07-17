@@ -10,7 +10,7 @@
 ## Download
 
 ```sh
-git clone https://github.com/eucehsar/Scratch-Game
+git clone https://github.com/eucesar/Scratch-Game
 ```
 
 ## Access scratch
